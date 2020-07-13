@@ -1,7 +1,6 @@
-### Hi there 👋
+![Banner](banner.jpg)
 
-<!--
-**luisaugusto/luisaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 📫 How to reach me: ...
+
+You can contact me at my email address or at one of the other places I hang out at:
+[![Luis's DEV Profile](icons/dev-brands.svg)](https://dev.to/luisaugusto)
+[![Luis's Twitter](icons/twitter-brands.svg)](https://twitter.com/legendofluis)
+[![Luis's LinkedIn](icons/linkedin-brands.svg)](https://www.linkedin.com/in/luisbaugusto)
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
