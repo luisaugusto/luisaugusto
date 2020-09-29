@@ -9,11 +9,11 @@ I am a fullstack developer working at a [creative agency](https://www.hdmz.com/)
 
 ## 📓 My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code With Friends: Breaking down a community events platform I built with Vue, Firebase, and Netlify](https://dev.to/luisaugusto/code-with-friends-breaking-down-a-community-events-platform-i-built-with-vue-firebase-and-netlify-16k9)
 - [Does a Top Level Domain (TLD) really matter?](https://dev.to/luisaugusto/does-a-top-level-domain-tld-really-matter-2240)
 - [Hello Dev! Introducing myself to the community](https://dev.to/luisaugusto/hello-dev-introducing-myself-to-the-community-17nc)
 - [Light Mode or Dark Mode, which do you prefer?](https://dev.to/luisaugusto/light-mode-or-dark-mode-which-do-you-prefer-16k1)
 - [Stop Using Fixed Headers and Start Using Sticky Ones](https://dev.to/luisaugusto/stop-using-fixed-headers-and-start-using-sticky-ones-1k30)
-- [My first browser extension is now available! The process of creating a new tab replacement for Chrome and Firefox](https://dev.to/luisaugusto/my-first-browser-extension-is-now-available-the-process-of-creating-a-new-tab-replacement-for-chrome-and-firefox-52if)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 I’m currently working on:
