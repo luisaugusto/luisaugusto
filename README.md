@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/luisaugusto/luisaugusto/main/banner.jpg)
 
-I am a fullstack developer working at a [creative agency](https://www.hdmz.com/) using the LAMP stack, building websites and applications for companies in the medical and biotech fields. On personal projects, I lean towards a [JAMstack](https://jamstack.org/) with Node and Vue/Nuxt/Vuex, relying on API integrations and static site generators.
+I am a frontend software engineer at [Cerebral](https://getcerebral.com), a mental health startup improving accessibility and affordability for medication, care counseling, and therapy.
 
 ###### Please consider supporting my work and other projects:
 
