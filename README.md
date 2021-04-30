@@ -44,7 +44,7 @@ Finding ways to meet and connect with other developers, especially during the li
 
 ## 📫 How to reach me:
 
-You can contact me at my [email address](mailto:hello@luis.codes) or at one of the other places I hang out at, such as on [Dev](https://dev.to/luisaugusto), my [Twitter](https://twitter.com/legendofluis), and [LinkedIn](https://www.linkedin.com/in/luisbaugusto).
+You can contact me at my [email address](mailto:hello@luis.app) or at one of the other places I hang out at, such as on [Dev](https://dev.to/luisaugusto), my [Twitter](https://twitter.com/legendofluis), and [LinkedIn](https://www.linkedin.com/in/luisbaugusto).
 
 ## 😄 Pronouns: 
 
