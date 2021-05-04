@@ -24,8 +24,8 @@ I am a frontend software engineer at [Cerebral](https://getcerebral.com), a ment
 
 ## 🌱 I am currently learning:
 
-- React - After so many years of using Vue, I figured it would be also good to see what it's like developing with a different framework. It'll also give me a chance to understand JSX and CSS-in-JS.
-- TypeScript - Currently finding ways to introduce it into my applications.
+- React Native
+- TypeScript
 
 ## 👯 I’m looking to collaborate on:
 
