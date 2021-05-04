@@ -22,7 +22,7 @@ I am a frontend software engineer at [Cerebral](https://getcerebral.com), a ment
 - Building up my online presence through [blogging](https://dev.to/) and [Twitter](https://twitter.com/legendofluis)
 - A few personal projects, like a small social network for family members, an interactive site for hiking trails, and an NPM package
 
-## 🌱 I’m currently learning:
+## 🌱 I am currently learning:
 
 - React - After so many years of using Vue, I figured it would be also good to see what it's like developing with a different framework. It'll also give me a chance to understand JSX and CSS-in-JS.
 - TypeScript - Currently finding ways to introduce it into my applications.
