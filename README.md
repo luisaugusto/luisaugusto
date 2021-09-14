@@ -9,11 +9,11 @@ I am a frontend software engineer at [Cerebral](https://getcerebral.com), a ment
 
 ## 📓 My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Collab Lab TCL-28: The Road to Lettuce Know](https://dev.to/the-collab-lab/the-collab-lab-tcl-28-the-road-to-lettuce-know-4nj6)
 - [TCL-22 Recap](https://dev.to/the-collab-lab/tcl-22-recap-211m)
 - [The Twitter Verified Fad is Old News. Time to get Github Verified ✅](https://dev.to/luisaugusto/the-twitter-verified-fad-is-old-news-time-to-get-github-verified-19gm)
 - [Code With Friends: Breaking down a community events platform I built with Vue, Firebase, and Netlify](https://dev.to/luisaugusto/code-with-friends-breaking-down-a-community-events-platform-i-built-with-vue-firebase-and-netlify-16k9)
 - [Does a Top Level Domain (TLD) really matter?](https://dev.to/luisaugusto/does-a-top-level-domain-tld-really-matter-2240)
-- [Hello Dev! Introducing myself to the community](https://dev.to/luisaugusto/hello-dev-introducing-myself-to-the-community-17nc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 I’m currently working on:
