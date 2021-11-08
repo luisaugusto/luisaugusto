@@ -13,7 +13,7 @@ I am a frontend software engineer at [Cerebral](https://getcerebral.com), a ment
 - [TCL-22 Recap](https://dev.to/the-collab-lab/tcl-22-recap-211m)
 - [The Twitter Verified Fad is Old News. Time to get Github Verified ✅](https://dev.to/luisaugusto/the-twitter-verified-fad-is-old-news-time-to-get-github-verified-19gm)
 - [Code With Friends: Breaking down a community events platform I built with Vue, Firebase, and Netlify](https://dev.to/luisaugusto/code-with-friends-breaking-down-a-community-events-platform-i-built-with-vue-firebase-and-netlify-16k9)
-- [Does a Top Level Domain (TLD) really matter?](https://dev.to/luisaugusto/does-a-top-level-domain-tld-really-matter-2240)
+- [Does a Top Level Domain &lpar;TLD&rpar; really matter?](https://dev.to/luisaugusto/does-a-top-level-domain-tld-really-matter-2240)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔭 I’m currently working on:
