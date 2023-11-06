@@ -1,31 +1,29 @@
 ## 🧑🏻‍💻 About Me
 
-I am a staff software engineer at [Cerebral](https://cerebral.com), a mental health startup improving accessibility and affordability for medication, care counseling, and therapy.
+I am a senior staff software engineer at [Cerebral](https://cerebral.com), a mental health startup improving accessibility and affordability for medication, care counseling, and therapy.
 
 ## 🔭 I’m currently working on:
 
-- Building Apps and structuring design systems at [Cerebral](https://cerebral.com/) with React, TypeScript, and Node.js
-- Mentoring at [The Collab Lab](https://the-collab-lab.codes/)
-- Sharing thoughts through [Twitter](https://twitter.com/itsluisaugusto)
-- Learning Portuguese 🇵🇹
+- Building a collection of open source [Discord bots](https://github.com/Discord-Botique)
+- Getting better at soccer
+- Learning Spanish 🇪🇸
 
-## 👯 I’m looking to collaborate on:
+## 🤝 I’m looking to collaborate on:
 
-- Open source projects built with JS
-- Any mentorship/speaking opportunities!
+- Open source projects
+- Discord applications / bots
+- Sustainability and environmental projects
+- Social media applications
+- Mentorship/speaking opportunities
 
 ## 🤔 I’m looking for help with:
 
-- Finding some interesting books to read, tech and non-tech related! Nonfiction, self-help, productivity, entrepreneurship, and science.
+- Finding some interesting books to read, tech and non-tech related! Nonfiction, self-help, productivity, entrepreneurship, and sci-fi.
 - Board game recommendations 🎲
 
 ## 📫 How to reach me:
 
-You can contact me at my [email address](mailto:hello@luis.app) or at one of the other places I hang out at, such as [Twitter](https://twitter.com/legendofluis) and [LinkedIn](https://www.linkedin.com/in/luisbaugusto).
-
-## 😄 Pronouns: 
-
-He/Him/His
+You can contact me at my [email address](mailto:hello@luis.app) or through [LinkedIn](https://www.linkedin.com/in/luisbaugusto).
 
 ## ⚡ Fun facts:
 
