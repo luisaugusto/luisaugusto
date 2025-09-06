@@ -1,19 +1,18 @@
 ## 🧑🏻‍💻 About Me
 
-I am a senior staff software engineer at [Cerebral](https://cerebral.com), a mental health startup improving accessibility and affordability for medication, care counseling, and therapy.
+I am a software engineer at Meta, working on business messaging for WhatsApp.
 
 ## 🔭 I’m currently working on:
 
-- Building a collection of open source [Discord bots](https://github.com/Discord-Botique)
-- Getting better at soccer
-- Learning Spanish 🇪🇸
+- Finding ways to use AI for improving productivity and learning
+- Studying Spanish 🇪🇸
 
 ## 🤝 I’m looking to collaborate on:
 
 - Open source projects
 - Discord applications / bots
 - Sustainability and environmental projects
-- Social media applications
+- Hackathone
 - Mentorship/speaking opportunities
 
 ## 🤔 I’m looking for help with:
