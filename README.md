@@ -1,29 +1,20 @@
-## 🧑🏻‍💻 About Me
+# Hi, I’m Luis 👋
 
-I am a software engineer at Meta, working on business messaging for WhatsApp.
+I’m a full-stack engineer working on growth at Meta. Outside work, I explore ideas through small products, with interests in AI, learning, and thoughtful design.
 
-## 🔭 I’m currently working on:
+## Selected projects
 
-- Finding ways to use AI for improving productivity and learning
-- Studying Spanish 🇪🇸
+- **[Preflight](https://github.com/luisaugusto/preflight)**: An iOS-first learning app for the FAA Private Pilot written test, built with Expo, React Native, SQLite, and Sanity.
+- **[VoiceGPT](https://github.com/luisaugusto/VoiceGPT)**: A voice-first iOS app combining transcription, AI chat, and speech playback.
+- **[UsageBar](https://github.com/luisaugusto/UsageBar)**: A macOS menu bar utility for checking Codex and Claude usage allowances.
+- **[Digital contact card](https://github.com/luisaugusto/business-card)**: A Next.js contact page with vCard export and Apple Wallet support. [Live site](https://contact.luis.app).
 
-## 🤝 I’m looking to collaborate on:
+## A little more about me
 
-- Open source projects
-- Discord applications / bots
-- Sustainability and environmental projects
-- Hackathone
-- Mentorship/speaking opportunities
+My background is in music production and engineering, which shaped my interest in creativity and design.
 
-## 🤔 I’m looking for help with:
+I’m interested in how AI can improve productivity and learning, and in the engineering work that turns an idea into something useful.
 
-- Finding some interesting books to read, tech and non-tech related! Nonfiction, self-help, productivity, entrepreneurship, and sci-fi.
-- Board game recommendations 🎲
+## Links
 
-## 📫 How to reach me:
-
-You can contact me at my [email address](mailto:hello@luis.app) or through [LinkedIn](https://www.linkedin.com/in/luisbaugusto).
-
-## ⚡ Fun facts:
-
-I have a Bachelor's in Music Production & Engineering, which helped nourish my interests in creativity and design. I later translated those skills into programming and web development, and I have enjoyed building cool things for over 10 years now.
+[Website](https://luis.app) · [LinkedIn](https://www.linkedin.com/in/luisbaugusto) · [Email](mailto:hello@luis.app)
